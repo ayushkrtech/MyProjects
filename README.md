@@ -13,5 +13,5 @@
 
 
 ### How to reach Me ?
-[![For The Code Contact Me !](<a href="https://www.instagram.com/ayus.h_24/">)
+https://www.instagram.com/ayus.h_24/
 
