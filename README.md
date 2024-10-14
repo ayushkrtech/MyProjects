@@ -13,5 +13,5 @@
 
 
 ### How to reach Me ?
-<a href="https://telegram.dog/ayushc8de"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/ayushc8derbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://www.instagram.com/ayus.h_24/"><img src="https://img.shields.io/badge/Instagram"></a>
+
