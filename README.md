@@ -13,5 +13,5 @@
 
 
 ### How to reach Me ?
-<a href="https://www.instagram.com/ayus.h_24/"><img src="https://img.shields.io/badge/Instagram"></a>
+[![For The Code Contact Me !]<a href="https://www.instagram.com/ayus.h_24/">
 
